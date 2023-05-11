@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure_Meeting5_WebJobs", "Azure_Meeting5_WebJobs\Azure_Meeting5_WebJobs.csproj", "{E570598B-36C5-4FDF-B175-0BA589B140C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E570598B-36C5-4FDF-B175-0BA589B140C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E570598B-36C5-4FDF-B175-0BA589B140C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E570598B-36C5-4FDF-B175-0BA589B140C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E570598B-36C5-4FDF-B175-0BA589B140C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC408D65-59B5-47F8-9841-EDFC22926EA5}
+	EndGlobalSection
+EndGlobal
